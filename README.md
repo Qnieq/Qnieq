@@ -7,8 +7,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Qnieq/count.svg?"  />
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Qnieq.Qnieq&right_color=cornflowerblue"  />
 </div>
 
 # 💻 Tech Stack:
