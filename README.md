@@ -8,7 +8,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Qnieq.Qnieq&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Qnieq"  />
 </div>
 
 # 💻 Tech Stack:
