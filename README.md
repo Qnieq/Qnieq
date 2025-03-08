@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:misha.o.son@gmail.com) [![telegram](https://img.shields.io/badge/Telegram-%23039BE5.svg?style=flat&logo=telegram&logoColor=white)](https://t.me/michael_zavali)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:misha.o.son@gmail.com) [![telegram](https://img.shields.io/badge/Telegram-%23039BE5.svg?style=flat&logo=telegram&logoColor=white)](https://t.me/michael_zavali) [![linkedin](https://img.shields.io/badge/LinkedIn-%23039BE5.svg?style=flat&logo=https://i.sstatic.net/gVE0j.png&logoColor=white)](https://www.linkedin.com/in/michael-orlov-280b4b348/)
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Qnieq.Qnieq&right_color=cornflowerblue"  />
