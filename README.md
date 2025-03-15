@@ -1,5 +1,5 @@
 # 💫 About Me:
-🐵 I'm Full stack web developer with 2+ years work experience.<br>👀 I'm from Russia<br>❤️ I love psychology, now I read Kahneman - Thinking, slow and fast.
+🐵 I'm Full stack web developer<br>👀 I'm from Russia<br>❤️ I love psychology, now I read Kahneman - Thinking, slow and fast.
 
 
 ## 🌐 Socials:
